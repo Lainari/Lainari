@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20Jinseok's%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20Jinseok's%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
 <!--
 **Lainari/Lainari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
